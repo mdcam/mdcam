@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Monica (Camorongan) Vinluan</h1>
 <h3 align="center">Full-Stack Software Engineer</h3>
 
-- 🔭 I’m currently working on [Wedding Planning App](https://github.com/mdcam/WeddingPlanApp)
+- 🔭 I’m currently working on [Wedding Planning App](https://github.com/mdcam/WeddingPlanApp/tree/mdcv/todo-mvc-auth-local-main)
 
 - 🌱 I’m currently learning **React, Node, and MongoDB**
 
