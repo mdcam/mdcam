@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **mdcam.prod@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1YS7q8rnw7_bPuK7DdWcsRcPxnWynbBQF/edit?usp=sharing&ouid=110514759081426006134&rtpof=true&sd=true](https://docs.google.com/document/d/1YS7q8rnw7_bPuK7DdWcsRcPxnWynbBQF/edit?usp=sharing&ouid=110514759081426006134&rtpof=true&sd=true)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mdcv_codes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdcv_codes" height="30" width="40" /></a>
